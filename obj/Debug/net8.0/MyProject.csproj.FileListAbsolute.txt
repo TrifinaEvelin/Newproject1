@@ -1,0 +1,14 @@
+C:\Users\trifina.vijayakumar\Downloads\Sampleproject\MyProject\bin\Debug\net8.0\MyProject.exe
+C:\Users\trifina.vijayakumar\Downloads\Sampleproject\MyProject\bin\Debug\net8.0\MyProject.deps.json
+C:\Users\trifina.vijayakumar\Downloads\Sampleproject\MyProject\bin\Debug\net8.0\MyProject.runtimeconfig.json
+C:\Users\trifina.vijayakumar\Downloads\Sampleproject\MyProject\bin\Debug\net8.0\MyProject.dll
+C:\Users\trifina.vijayakumar\Downloads\Sampleproject\MyProject\bin\Debug\net8.0\MyProject.pdb
+C:\Users\trifina.vijayakumar\Downloads\Sampleproject\MyProject\obj\Debug\net8.0\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trifina.vijayakumar\Downloads\Sampleproject\MyProject\obj\Debug\net8.0\MyProject.AssemblyInfoInputs.cache
+C:\Users\trifina.vijayakumar\Downloads\Sampleproject\MyProject\obj\Debug\net8.0\MyProject.AssemblyInfo.cs
+C:\Users\trifina.vijayakumar\Downloads\Sampleproject\MyProject\obj\Debug\net8.0\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\trifina.vijayakumar\Downloads\Sampleproject\MyProject\obj\Debug\net8.0\MyProject.dll
+C:\Users\trifina.vijayakumar\Downloads\Sampleproject\MyProject\obj\Debug\net8.0\refint\MyProject.dll
+C:\Users\trifina.vijayakumar\Downloads\Sampleproject\MyProject\obj\Debug\net8.0\MyProject.pdb
+C:\Users\trifina.vijayakumar\Downloads\Sampleproject\MyProject\obj\Debug\net8.0\MyProject.genruntimeconfig.cache
+C:\Users\trifina.vijayakumar\Downloads\Sampleproject\MyProject\obj\Debug\net8.0\ref\MyProject.dll
